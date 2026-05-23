@@ -16,15 +16,15 @@ dependencies:
   spark_dart:
     git:
       url: https://github.com/integrityph/spark_dart
-      ref: v0.1.0
+      ref: v0.1.1
   secp256k1_ffi:
     git:
       url: https://github.com/integrityph/secp256k1_ffi
-      ref: v0.1.0
+      ref: v0.1.1
   bip32_key_derivation:
     git:
       url: https://github.com/integrityph/bip32_key_derivation
-      ref: v0.1.0
+      ref: v0.1.1
   bolt11_decoder: ^1.0.2
   http: ^1.6.0
   crypto: ^3.0.7
