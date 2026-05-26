@@ -16,7 +16,7 @@ dependencies:
   spark_dart:
     git:
       url: https://github.com/integrityph/spark_dart
-      ref: 2a685bb8d9ee7337d4b3c68aca3e2a439d8b5e89
+      ref: 5ae5528ed9b4ee2f90b4c78b62bd7e9a62bc1a67
   secp256k1_ffi:
     git:
       url: https://github.com/integrityph/secp256k1_ffi
